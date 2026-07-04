@@ -1,3 +1,30 @@
+CC0 1.0 Universal Public Domain Dedication
+
+Repository: north-utilities-cwp3-reliability-reconciliation
+
+This repository and all files listed below are dedicated to the public domain under the Creative Commons CC0 1.0 Universal Public 
+Domain Dedication.
+
+Covered input files:
+
+1. NU_CWP_asset_register_and_tag_crosswalk.csv
+2. NU_CWP_CMMS_work_order_export.csv
+3. NU_CWP_vibration_temperature_route_log.csv
+4. NU_CWP_pump_curve_and_field_readings.xlsx
+5. NU_CWP_alignment_and_baseplate_report.docx
+6. NU_CWP_spares_lubrication_and_seal_inventory.csv
+7. NU_CWP_BAS_pressure_flow_trends.csv
+8. NU_CWP_cooling_tower_basin_and_fan_log.csv
+9. NU_CWP_operator_rounds_and_alarm_notes.pdf
+10. NU_CWP_OEM_service_criteria_excerpt.docx
+
+All files listed above are original, self-generated project reference files created for the NU-CWP mechanical engineering technician 
+data-preparation task. They do not reproduce third-party vendor manuals, proprietary OEM documentation, copyrighted maintenance manuals, 
+copyrighted calibration procedures, or externally sourced tables.
+
+Unless otherwise stated, the prompt text, task description, conflict explanation, source data, supporting documentation, expected 
+output specifications, and repository documentation are also covered by CC0 1.0.
+
 Creative Commons Legal Code
 
 CC0 1.0 Universal
