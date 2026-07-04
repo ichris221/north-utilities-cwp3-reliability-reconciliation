@@ -1,0 +1,21 @@
+source_id,timestamp,cwp3_speed_hz,flow_gpm_BAS,flow_gpm_ultrasonic,suction_psi,discharge_psi,strainer_upstream_psi,strainer_downstream_psi,ct2_supply_F,ct2_return_F,tower_approach_F,bv204_cmd_pct,bv204_fb_pct,alarm_code,chiller_trip_min,trend_note
+BAS-001,2026-05-04 05:35,47,960,,12.4,59.2,,,74.8,88.5,7.8,18,20,LF-203,0,pre-scale correction; no strainer taps
+BAS-002,2026-05-04 05:48,47,945,,12.1,58.6,,,75.2,89.0,8.1,19,21,LF-203,0,flow alarm active
+BAS-003,2026-05-06 07:25,47,910,,11.8,56.9,,,76.5,91.4,10.2,22,24,LF-203,0,strainer basket later cleaned; no DP taps
+BAS-004,2026-05-07 15:35,47,1020,,12.5,59.8,,,76.2,90.6,9.4,21,22,VIB-203,0,after coupling spider replacement
+BAS-005,2026-05-08 14:00,50,1045,,12.0,61.5,,,77.9,94.0,12.0,26,27,TEMP-203,0,bearing label conflict window
+BAS-006,2026-05-09 04:55,47,890,,11.6,55.8,,,78.0,94.5,12.5,31,34,LF-203,6,seal leak observed; Chiller 1 trip reset
+BAS-007,2026-05-10 15:20,47,940,,12.0,57.1,12.9,8.1,77.1,92.0,10.8,24,25,LF-203,0,DP taps active; high strainer DP
+BAS-008,2026-05-10 18:10,47,955,,12.1,57.6,13.0,8.4,76.8,91.8,10.5,24,25,SEAL-LEAK,0,after claimed seal job; mist still present
+BAS-009,2026-05-11 16:20,50,1005,,12.7,63.6,13.4,8.2,77.2,93.5,11.1,25,27,VIB-203,0,flush gauge installed later same shift
+BAS-010,2026-05-12 10:15,50,995,1325,12.3,62.4,13.2,8.7,79.8,96.5,13.5,36,37,TEMP-203,0,ultrasonic meter shows BAS underreporting
+BAS-011,2026-05-12 14:30,50,1030,1340,12.5,63.8,13.3,8.5,76.0,90.2,8.2,18,19,,0,after CT-2 basin cleaning; approach improved
+BAS-012,2026-05-13 06:30,47,1000,1310,12.8,59.0,13.3,9.3,75.5,88.8,7.0,17,19,LF-203,0,strainer DP action level
+BAS-013,2026-05-14 10:50,50,1025,1365,12.6,64.0,13.1,8.1,75.8,89.0,7.5,18,19,VIB-203,0,alignment marked pass by site tolerance
+BAS-014,2026-05-15 09:45,50,1008,1340,12.6,63.6,13.3,8.8,76.2,89.6,7.9,18,19,FLOW-SCALE,0,before BAS scale correction
+BAS-015,2026-05-15 10:20,50,1348,1360,12.6,63.7,13.3,8.7,76.1,89.4,7.8,18,19,,0,after BAS scale correction
+BAS-016,2026-05-15 14:05,50,1330,1355,12.4,63.1,13.0,4.6,76.2,89.3,7.7,18,19,STR-DP,0,pre-clean DP using corrected flow
+BAS-017,2026-05-15 15:20,50,1445,1458,13.0,64.5,13.2,11.1,75.8,88.6,7.2,18,19,,0,post-clean DP lower; flow improved
+BAS-018,2026-05-16 07:40,47,1268,,12.9,59.8,13.4,10.1,75.4,88.3,7.1,18,19,VIB-203,0,"post-clean, vibration still high"
+BAS-019,2026-05-17 06:10,47,1195,,12.7,57.8,13.0,9.4,75.6,88.9,7.6,19,21,LF-203,4,Chiller 1 loading; correctly scaled flow
+BAS-020,2026-05-18 11:48,47,1210,,12.8,58.1,13.1,9.7,75.7,88.7,7.5,19,20,CH1-TRIP,5,trip impact; tower approach normal

@@ -1,0 +1,19 @@
+source_id,transaction_time,part_number,description,asset_tag,transaction_type,quantity,work_order,stock_after,storeroom_note,technician_or_clerk,controlling_use
+INV-001,2026-05-07 14:05,SPDR-L110-ORANGE,L-110 jaw coupling orange elastomer spider,CPL-CWP-3,issue,1,WO-78125,2,Issued to AR; fitted same shift.,STK-JN,verifies spider replacement
+INV-002,2026-05-10 07:45,SK-CWP3-EPDM-SICCARB,"correct CWP-3 mechanical seal kit, EPDM, silicon-carbide/carbon",CWP-3,cycle count,0,,0,No correct kit in bin before claimed seal replacement.,STK-AL,refutes claimed seal replacement
+INV-003,2026-05-10 13:18,SK-CWP3-EPDM-SICCARB,"correct CWP-3 mechanical seal kit, EPDM, silicon-carbide/carbon",CWP-3,reservation,1,WO-78155,0,Reservation entered for duplicate work order; no physical issue.,STK-AL,not proof of installation
+INV-004,2026-05-10 15:02,SK-CWP3-BUNA-TC,"wrong seal kit, Buna elastomer, tungsten-carbide faces",CWP-3,issue then reversed,1,WO-78151,1,Wrong kit scanned and reversed at 15:18; not compatible with current seal chamber.,STK-AL,must not be counted as fitted seal
+INV-005,2026-05-13 11:05,6208-2RS-C3,CWP-3 DE/NDE bearing,CWP-3,cycle count,4,,4,Bearings in stock; none issued in evidence window.,STK-JN,refutes bearing replacement
+INV-006,2026-05-15 13:55,GSK-STR-12-NBR,STR-CWP-3 cover gasket,STR-CWP-3,issue,1,WO-78195,8,Issued for strainer basket cleaning.,STK-JN,verifies strainer work
+INV-007,2026-05-12 08:20,ISO-VG220-FOOD,food-grade synthetic gear oil ISO VG 220,GB-CT2,issue,2 L,WO-78174,18 L,Issued for CT-2 gearbox top-off.,STK-JN,verifies tower gearbox top-off
+INV-008,2026-05-11 15:45,GAUGE-0-60-SS,0-60 psi stainless pressure gauge,SFP-CWP3,issue,1,WO-78169,5,Installed as local seal-flush pressure gauge.,STK-JN,verifies first local flush pressure measurement date
+INV-009,2026-05-18 09:05,FLTR-SFP-20M,20 micron seal-flush panel filter element,SFP-CWP3,issue,1,WO-78220,6,Filter element issued and fitted.,STK-AL,verifies flush filter service
+INV-010,2026-05-19 06:40,SK-CWP3-EPDM-SICCARB,"correct CWP-3 mechanical seal kit, EPDM, silicon-carbide/carbon",CWP-3,receipt,2,PO-45518,2,First receipt after evidence window for correct seal kit.,STK-AL,confirms no correct kit available earlier
+INV-011,2026-05-19 08:22,SK-CWP3-EPDM-SICCARB,"correct CWP-3 mechanical seal kit, EPDM, silicon-carbide/carbon",CWP-3,issue,1,WO-78244,1,"First physical issue of correct kit, outside evidence window.",STK-AL,not part of 2026-05-04 to 2026-05-18 record
+INV-012,2026-05-10 16:05,SHIM-SS-050,0.05 mm stainless motor shim,M-CWP-3,issue,6,WO-78164,44,Issued for alignment work.,STK-JN,verifies shimming
+INV-013,2026-05-11 07:30,SHIM-SS-100,0.10 mm stainless motor shim,M-CWP-3,issue,2,WO-78164,29,Issued for alignment work.,STK-JN,verifies shimming
+INV-014,2026-05-12 08:25,CT-FILL-PANEL-2,replacement splash fill panel,CT-2,cycle count,12,,12,No fill panel issued during evidence window.,STK-JN,"tower fill was cleaned, not replaced"
+INV-015,2026-05-16 09:00,BV204-SEAT-KIT,BV-204 valve seat and stem kit,BV-204,cycle count,1,,1,No valve kit issued. Bypass valve not rebuilt.,STK-AL,refutes valve rebuild
+INV-016,2026-05-06 08:05,GSK-STR-12-NBR,STR-CWP-3 cover gasket,STR-CWP-3,issue,1,WO-78114,9,Issued for early strainer pull before DP taps.,STK-JN,verifies early strainer clean
+INV-017,2026-05-18 13:40,LASER-RENTAL-SL320,laser alignment rental kit return line,CPL-CWP-3,return,1,WO-78164,N/A,Alignment kit returned. No repeat job recorded after pipe clamp was tightened.,STK-JN,supports missing repeat alignment
+INV-018,2026-05-12 09:30,BELT-CT2-5VX,CT-2 fan belt set,CT-2,cycle count,3 sets,,3 sets,No fan belt issued; fan drive not rebuilt.,STK-AL,tower fan repair not performed

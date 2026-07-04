@@ -1,0 +1,36 @@
+source_id,timestamp,asset_tag,route_point,orientation,speed_hz,overall_mm_s_rms,axial_mm_s_rms,dominant_frequency,bearing_temp_C,sensor,analyst_note,threshold_source
+VIB-001,2026-05-04 07:10,CWP-3,DE bearing,horizontal,47,4.8,3.6,1x running speed,68,SKF Microlog GX; calibrated 2026-04-21,baseline after LF-203 alarm; no strainer DP,OEM-CWP-3 Table 2
+VIB-002,2026-05-04 07:10,CWP-3,DE bearing,vertical,47,2.8,3.3,1x running speed,67,SKF Microlog GX; calibrated 2026-04-21,companion vertical reading for pump DE,OEM-CWP-3 Table 2
+VIB-003,2026-05-04 07:10,CWP-3,NDE bearing,horizontal,47,3.2,2.5,1x running speed,63,SKF Microlog GX; calibrated 2026-04-21,pump NDE lower than DE but same 1x pattern,OEM-CWP-3 Table 2
+VIB-004,2026-05-04 07:10,M-CWP-3,motor DE,horizontal,47,2.0,1.4,1x running speed,56,SKF Microlog GX; calibrated 2026-04-21,motor reading lower than pump DE; motor-only bearing fault not supported,OEM-CWP-3 Table 2
+VIB-005,2026-05-06 08:55,CWP-3,DE bearing,horizontal,47,8.1,5.7,1x running speed,77,SKF Microlog GX; calibrated 2026-04-21,before coupling spider change; horizontal > vertical,OEM-CWP-3 Table 2
+VIB-006,2026-05-06 08:55,CWP-3,DE bearing,vertical,47,4.7,5.2,1x running speed,76,SKF Microlog GX; calibrated 2026-04-21,companion vertical reading for pump DE,OEM-CWP-3 Table 2
+VIB-007,2026-05-06 08:55,CWP-3,NDE bearing,horizontal,47,5.3,4.0,1x running speed,72,SKF Microlog GX; calibrated 2026-04-21,pump NDE lower than DE but same 1x pattern,OEM-CWP-3 Table 2
+VIB-008,2026-05-06 08:55,M-CWP-3,motor DE,horizontal,47,3.4,2.2,1x running speed,65,SKF Microlog GX; calibrated 2026-04-21,motor reading lower than pump DE; motor-only bearing fault not supported,OEM-CWP-3 Table 2
+VIB-009,2026-05-08 13:35,CWP-3,DE bearing,horizontal,50,9.6,6.8,1x running speed,86,SKF Microlog GX; calibrated 2026-04-21,BAS display label still says CT-2 fan bearing but route point is pump DE,OEM-CWP-3 Table 2
+VIB-010,2026-05-08 13:35,CWP-3,DE bearing,vertical,50,5.6,6.3,1x running speed,85,SKF Microlog GX; calibrated 2026-04-21,companion vertical reading for pump DE,OEM-CWP-3 Table 2
+VIB-011,2026-05-08 13:35,CWP-3,NDE bearing,horizontal,50,6.3,4.8,1x running speed,81,SKF Microlog GX; calibrated 2026-04-21,pump NDE lower than DE but same 1x pattern,OEM-CWP-3 Table 2
+VIB-012,2026-05-08 13:35,M-CWP-3,motor DE,horizontal,50,4.0,2.6,1x running speed,74,SKF Microlog GX; calibrated 2026-04-21,motor reading lower than pump DE; motor-only bearing fault not supported,OEM-CWP-3 Table 2
+VIB-013,2026-05-10 18:05,CWP-3,DE bearing,horizontal,47,7.9,5.5,1x running speed,82,SKF Microlog GX; calibrated 2026-04-21,after claimed seal replacement; mist visible at guard drain,OEM-CWP-3 Table 2
+VIB-014,2026-05-10 18:05,CWP-3,DE bearing,vertical,47,4.6,5.1,1x running speed,81,SKF Microlog GX; calibrated 2026-04-21,companion vertical reading for pump DE,OEM-CWP-3 Table 2
+VIB-015,2026-05-10 18:05,CWP-3,NDE bearing,horizontal,47,5.2,3.8,1x running speed,77,SKF Microlog GX; calibrated 2026-04-21,pump NDE lower than DE but same 1x pattern,OEM-CWP-3 Table 2
+VIB-016,2026-05-10 18:05,M-CWP-3,motor DE,horizontal,47,3.3,2.1,1x running speed,70,SKF Microlog GX; calibrated 2026-04-21,motor reading lower than pump DE; motor-only bearing fault not supported,OEM-CWP-3 Table 2
+VIB-017,2026-05-12 10:15,CWP-3,DE bearing,horizontal,50,11.4,8.0,1x running speed,91,SKF Microlog GX; calibrated 2026-04-21,worst reading; elevated axial; no bearing defect frequency noted,OEM-CWP-3 Table 2
+VIB-018,2026-05-12 10:15,CWP-3,DE bearing,vertical,50,6.6,7.4,1x running speed,90,SKF Microlog GX; calibrated 2026-04-21,companion vertical reading for pump DE,OEM-CWP-3 Table 2
+VIB-019,2026-05-12 10:15,CWP-3,NDE bearing,horizontal,50,7.5,5.6,1x running speed,86,SKF Microlog GX; calibrated 2026-04-21,pump NDE lower than DE but same 1x pattern,OEM-CWP-3 Table 2
+VIB-020,2026-05-12 10:15,M-CWP-3,motor DE,horizontal,50,4.8,3.0,1x running speed,79,SKF Microlog GX; calibrated 2026-04-21,motor reading lower than pump DE; motor-only bearing fault not supported,OEM-CWP-3 Table 2
+VIB-021,2026-05-14 11:30,CWP-3,DE bearing,horizontal,50,8.6,6.2,1x running speed,84,SKF Microlog GX; calibrated 2026-04-21,after laser alignment marked pass by site tolerance,OEM-CWP-3 Table 2
+VIB-022,2026-05-14 11:30,CWP-3,DE bearing,vertical,50,5.0,5.7,1x running speed,83,SKF Microlog GX; calibrated 2026-04-21,companion vertical reading for pump DE,OEM-CWP-3 Table 2
+VIB-023,2026-05-14 11:30,CWP-3,NDE bearing,horizontal,50,5.7,4.3,1x running speed,79,SKF Microlog GX; calibrated 2026-04-21,pump NDE lower than DE but same 1x pattern,OEM-CWP-3 Table 2
+VIB-024,2026-05-14 11:30,M-CWP-3,motor DE,horizontal,50,3.6,2.4,1x running speed,72,SKF Microlog GX; calibrated 2026-04-21,motor reading lower than pump DE; motor-only bearing fault not supported,OEM-CWP-3 Table 2
+VIB-025,2026-05-16 07:45,CWP-3,DE bearing,horizontal,47,7.6,5.2,1x running speed,80,SKF Microlog GX; calibrated 2026-04-21,after strainer cleaning; vibration still above alarm,OEM-CWP-3 Table 2
+VIB-026,2026-05-16 07:45,CWP-3,DE bearing,vertical,47,4.4,4.8,1x running speed,79,SKF Microlog GX; calibrated 2026-04-21,companion vertical reading for pump DE,OEM-CWP-3 Table 2
+VIB-027,2026-05-16 07:45,CWP-3,NDE bearing,horizontal,47,5.0,3.6,1x running speed,75,SKF Microlog GX; calibrated 2026-04-21,pump NDE lower than DE but same 1x pattern,OEM-CWP-3 Table 2
+VIB-028,2026-05-16 07:45,M-CWP-3,motor DE,horizontal,47,3.2,2.0,1x running speed,68,SKF Microlog GX; calibrated 2026-04-21,motor reading lower than pump DE; motor-only bearing fault not supported,OEM-CWP-3 Table 2
+VIB-029,2026-05-18 13:10,CWP-3,DE bearing,horizontal,47,8.3,5.8,1x running speed,83,SKF Microlog GX; calibrated 2026-04-21,flow scaled correctly; vibration still alarm,OEM-CWP-3 Table 2
+VIB-030,2026-05-18 13:10,CWP-3,DE bearing,vertical,47,4.8,5.3,1x running speed,82,SKF Microlog GX; calibrated 2026-04-21,companion vertical reading for pump DE,OEM-CWP-3 Table 2
+VIB-031,2026-05-18 13:10,CWP-3,NDE bearing,horizontal,47,5.5,4.1,1x running speed,78,SKF Microlog GX; calibrated 2026-04-21,pump NDE lower than DE but same 1x pattern,OEM-CWP-3 Table 2
+VIB-032,2026-05-18 13:10,M-CWP-3,motor DE,horizontal,47,3.5,2.2,1x running speed,71,SKF Microlog GX; calibrated 2026-04-21,motor reading lower than pump DE; motor-only bearing fault not supported,OEM-CWP-3 Table 2
+VIB-033,2026-05-08 13:50,GB-CT2,fan gearbox,horizontal,50,2.4,1.1,fan speed harmonics,61,SKF Microlog GX; calibrated 2026-04-21,GB-CT2 normal vibration despite BAS bearing label confusion,OEM-CT2 Table 5
+VIB-034,2026-05-12 10:40,GB-CT2,fan gearbox,horizontal,50,2.8,1.1,fan speed harmonics,66,SKF Microlog GX; calibrated 2026-04-21,gearbox oil low mark before top-off; vibration normal,OEM-CT2 Table 5
+VIB-035,2026-05-16 08:05,GB-CT2,fan gearbox,horizontal,50,2.2,1.1,fan speed harmonics,63,SKF Microlog GX; calibrated 2026-04-21,gearbox after top-off normal,OEM-CT2 Table 5
